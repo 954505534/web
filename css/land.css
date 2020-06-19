@@ -1,0 +1,155 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 100%;
+    background-color:rgb(44, 43, 43);
+    height: 50px;
+    float: left;
+}
+
+header .inner p{
+    padding-left: 50px;
+    color: cornsilk;
+    font-size: 25px;
+    line-height: 2px;
+    font-family: sans-serif;
+    font-style: italic;
+    float: left;
+}
+
+#hdp2{
+    padding-left: 500px;
+}
+
+aside{
+    margin-top: 100px;
+    width: 14%;
+    float: left;
+    position: fixed;
+}
+
+div.side{
+    border-color: rgb(134, 130, 130);
+    border-width: 5px;
+    border-style: solid;
+}
+
+aside .side h1{
+
+    padding-left: 50px;
+    background-color:rgb(134, 130, 130);
+}
+
+
+
+
+content{
+    margin-top: 50px;
+    width: 84%;
+    float: right;
+    background-color: rgb(235, 252, 251);
+}
+
+
+
+content div.cont1 div#cont1p{
+    padding-top: 30px;
+    padding-left: 700px;
+    padding-bottom: 60px;
+}
+
+content div.cont1 div#cont1p p{
+    color: rgb(83, 67, 33);
+    font-size: 25px;
+    line-height: 50px;
+    font-family: sans-serif;
+}
+
+
+content div.cont2 div#cont2p{
+    padding-top: 30px;
+    padding-left: 700px;
+    padding-bottom: 60px;
+}
+
+content div.cont2 div#cont2p p{
+    color: rgb(83, 67, 33);
+    font-size: 25px;
+    line-height: 50px;
+    font-family: sans-serif;
+}
+
+
+content div.cont3 div#cont3p{
+    padding-top: 30px;
+    padding-left: 700px;
+    padding-bottom: 60px;
+}
+
+content div.cont3 div#cont3p p{
+    color: rgb(83, 67, 33);
+    font-size: 25px;
+    line-height: 50px;
+    font-family: sans-serif;
+}
+
+
+
+footer{
+    width: 100%;
+    background-color:rgb(44, 43, 43);
+    height: 30px;
+    float: left;
+}
+
+footer .inner p{
+    text-align: center;
+    color: cornsilk;
+    font-size: 15px;
+    line-height: 2px;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+
+textarea{
+    margin-bottom: 20px;
+    float: left;
+    margin-left: 50px;
+    height: 100px;
+    width: 300px;
+    resize: none;
+    scrollbar-3dlight-color: rgb(134, 130, 130);
+    scrollbar-arrow-color: rgb(134, 130, 130);
+    scrollbar-base-color: rgb(134, 130, 130);
+    border-color: rgb(134, 130, 130);
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+.cont4p{
+    float: left;
+    margin-left: 100px;
+}
+
+.cont4p p{
+    color: rgb(83, 67, 33);
+    font-size: 20px;
+    line-height: 20px;
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#insub{
+    margin-left: 20px;
+    margin-top: 60px;
+    background-color: rgb(134, 130, 130);
+    color: cornsilk;
+}
